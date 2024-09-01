@@ -1,0 +1,16 @@
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\bin\Debug\net8.0-windows\DragDrop.exe
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\bin\Debug\net8.0-windows\DragDrop.deps.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\bin\Debug\net8.0-windows\DragDrop.runtimeconfig.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\bin\Debug\net8.0-windows\DragDrop.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\bin\Debug\net8.0-windows\DragDrop.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.Form1.resources
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.csproj.GenerateResource.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.AssemblyInfoInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.AssemblyInfo.cs
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.csproj.CoreCompileInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\refint\DragDrop.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\DragDrop.genruntimeconfig.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(3)\DragDrop\obj\Debug\net8.0-windows\ref\DragDrop.dll
